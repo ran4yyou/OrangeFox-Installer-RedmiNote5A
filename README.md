@@ -32,7 +32,7 @@ Follow these four simple steps to install OrangeFox Recovery:
 1.  **Download the Repository:**
     Clone or download this repository to your local machine:
     ```bash
-    git clone [https://github.com/ran4yyou/TWRP-Installer-RedmiNote5A.git](https://github.com/ran4yyou/TWRP-Installer-RedmiNote5A.git)
+    git clone https://github.com/ran4yyou/OrangeFox-Installer-RedmiNote5A
     ```
 2.  **Prepare the Recovery File:**
     Place your desired OrangeFox recovery file (must be named **`recovery.img`**) inside the **`adb`** folder.
