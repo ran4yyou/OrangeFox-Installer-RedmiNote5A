@@ -39,4 +39,8 @@ timeout /t 5 >nul
 color 0C
 echo [ FLASH ]  Erasing old recovery..
 fastboot erase recovery
+echo [ FLASH ]  Flashing new OrangeFox...
+fastboot flash recovery recovery.img
+echo [ BOOT ]   Booting into OrangeFox...
+fastboot boot recovery.img
 
