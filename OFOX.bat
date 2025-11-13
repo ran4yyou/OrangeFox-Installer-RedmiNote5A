@@ -44,3 +44,10 @@ fastboot flash recovery recovery.img
 echo [ BOOT ]   Booting into OrangeFox...
 fastboot boot recovery.img
 
+:: ====== FINISHED ======
+color 0A
+echo [DONE]   Rebooting to recovery...
+adb reboot recovery
+echo.
+
+
