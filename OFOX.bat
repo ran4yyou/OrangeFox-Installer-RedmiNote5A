@@ -49,5 +49,10 @@ color 0A
 echo [DONE]   Rebooting to recovery...
 adb reboot recovery
 echo.
-
+echo  ==============================================================
+echo   PROCESS SUCCEEDED!
+echo   OrangeFox Recovery has been installed on your device.
+echo  ==============================================================
+echo.
+pause
 
