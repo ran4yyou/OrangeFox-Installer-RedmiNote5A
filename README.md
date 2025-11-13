@@ -1,4 +1,4 @@
-TWRP 3.2.0 Installer for Xiaomi Redmi Note 5A (UGGLITE)
+## TWRP 3.2.0 Installer for Xiaomi Redmi Note 5A (UGGLITE)
 Automated batch tool to install and boot TWRP 3.2.0 for Xiaomi Redmi Note 5A (UGGLITE) using ADB and Fastboot.
 
 ## Features
@@ -7,3 +7,9 @@ Automated batch tool to install and boot TWRP 3.2.0 for Xiaomi Redmi Note 5A (UG
 - Flashes and boots TWRP recovery  
 - Clean CMD interface with color output  
 - No extra tools required — just ADB & Fastboot
+
+
+ ## How to Use
+1. Download or clone this repository  
+   ```bash
+   git clone https://github.com/ran4yyou/TWRP-Installer-RedmiNote5A.git
