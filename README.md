@@ -22,7 +22,7 @@ Simple Windows batch script to automatically flash and boot OrangeFox Recovery o
    ```bash
    git clone https://github.com/ran4yyou/TWRP-Installer-RedmiNote5A.git
 2. Place your recovery.img inside the adb folder
-3. Run the installer : 
+3. Run the installer  :
    A. Double click OFOX.bat
    B. Follow the on-screen instructions
 4. Wait until it finishes and your phone reboots into OrangeFox recovery 🎉
