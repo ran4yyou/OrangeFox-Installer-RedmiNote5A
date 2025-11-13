@@ -27,3 +27,8 @@ echo.
 adb devices
 echo.
 pause
+:: ====== ENTER FASTBOOT MODE ======
+color 0E
+echo [ ACTION ]  Rebooting to fastboot mode...
+adb reboot bootloader
+timeout /t 5 >nul
