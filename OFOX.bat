@@ -2,6 +2,7 @@
 title OrangeFox Recovery Installer for Xiaomi Redmi Note 5A (UGGLITE)
 color 0B
 mode con: cols=80 lines=35
+
 echo. 
 echo  ==============================================================
 echo   OrangeFox Recovery Installer for Xiaomi Redmi Note 5A (UGGLITE)
@@ -11,3 +12,6 @@ echo   Github     : https://github.com/ran4yyou
 echo   Description: Flash and boot OrangeFox recovery automatically
 echo  ==============================================================
 ECHO.
+echo  Ensure the phone is connected and USB Debugging is enabled.
+echo.
+timeout
